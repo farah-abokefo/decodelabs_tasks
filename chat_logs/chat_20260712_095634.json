@@ -1,0 +1,37 @@
+{
+  "session_start": "2026-07-12T09:56:34.533800",
+  "session_end": "2026-07-12T09:57:42.906927",
+  "total_exchanges": 5,
+  "history": [
+    {
+      "timestamp": "2026-07-12T09:56:43.620803",
+      "user": "help",
+      "bot": "🤖 I can help you with:\n    • Greetings (hello, hi, good morning)\n    • AI questions (what is AI, machine learning)\n    • About DecodeLabs\n    • Python programming\n    • Project 1 questions\n    \n    💡 Try: 'hello', 'what is AI', 'help', 'bye'",
+      "exchange_id": 1
+    },
+    {
+      "timestamp": "2026-07-12T09:56:51.308439",
+      "user": "what is AI",
+      "bot": "AI is the simulation of human intelligence in machines. I'm a rule-based example!",
+      "exchange_id": 2
+    },
+    {
+      "timestamp": "2026-07-12T09:57:02.510720",
+      "user": "what is machine learning",
+      "bot": "ML is a subset of AI where systems learn from data. But I'm deterministic!",
+      "exchange_id": 3
+    },
+    {
+      "timestamp": "2026-07-12T09:57:10.843322",
+      "user": "python",
+      "bot": "Python is a programming language. That's what I'm written in!",
+      "exchange_id": 4
+    },
+    {
+      "timestamp": "2026-07-12T09:57:40.225694",
+      "user": "sva",
+      "bot": "I'm not sure about that. Try 'hello', 'help', or ask about AI!",
+      "exchange_id": 5
+    }
+  ]
+}
