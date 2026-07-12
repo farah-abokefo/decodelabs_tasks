@@ -144,15 +144,12 @@ The system uses **TF-IDF Vectorization** and **Cosine Similarity** to calculate 
 ```
 AI-Engineering-Portfolio/
 │
-├── Project-1-Rule-Based-Chatbot/
+├── Project-1-Chatbot.py
 │
-├── Project-2-Iris-Classification/
+├── Project-2-Classification.py
 │
-├── Project-3-Recommendation-System/
+├── Project-3-Recommendation.py
 │
-├── outputs/
-│
-├── datasets/
 │
 └── README.md
 ```
